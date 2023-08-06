@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aff4532b.css",
+    "main.js": "/static/js/main.9535c275.js",
+    "static/js/787.c23b093c.chunk.js": "/static/js/787.c23b093c.chunk.js",
+    "static/media/app-preview.svg": "/static/media/app-preview.8b64767bf76ac7c367c5aa8d701180ea.svg",
+    "static/media/logo.svg": "/static/media/logo.7b2aecb5be56f14e9a248d32cb1cd9c3.svg",
+    "static/media/logo-home.svg": "/static/media/logo-home.488ea1340f48f70954633ee8f2f4b8e6.svg",
+    "static/media/affinity-logo.png": "/static/media/affinity-logo.c4e3f81935dce9b6d9a1.png",
+    "static/media/app-store.svg": "/static/media/app-store.34830b05eddd1a0c754d7b2963612df6.svg",
+    "static/media/play-store.svg": "/static/media/play-store.2ebfdaf8119a1242fb498d08dadb9d64.svg",
+    "static/media/frame-3.svg": "/static/media/frame-3.c9ec3e8198ac008bfc1ff9b16e9a1090.svg",
+    "static/media/frame-2.svg": "/static/media/frame-2.70101907e84a915bba307982caf27039.svg",
+    "static/media/frame-1.svg": "/static/media/frame-1.4f980a5bb710e16803516dca21127b58.svg",
+    "static/media/profile.svg": "/static/media/profile.7eb2f9db9bec2d7134e16839f2299182.svg",
+    "static/media/frame-4.svg": "/static/media/frame-4.69178dda592275f936eea5873bf16266.svg",
+    "static/media/chevron-with-bg.svg": "/static/media/chevron-with-bg.acacb862014046ea2c82.svg",
+    "index.html": "/index.html",
+    "static/media/account-icon.svg": "/static/media/account-icon.45524fa3ec9c74e56c3f.svg",
+    "static/media/notification.svg": "/static/media/notification.b902d8b1c575cef5d0b81d23134c0417.svg",
+    "static/media/app-preview-left-bottom-circle.svg": "/static/media/app-preview-left-bottom-circle.dfa78653abd9fe9f11e4.svg",
+    "static/media/app-preview-left-top-circle.svg": "/static/media/app-preview-left-top-circle.2d4410e47c1ee7ecf36d.svg",
+    "static/media/app-preview-right-top-circle.svg": "/static/media/app-preview-right-top-circle.43ac10196f0634cce252.svg",
+    "static/media/chevron-grey.svg": "/static/media/chevron-grey.216c150f12203570a2de.svg",
+    "main.aff4532b.css.map": "/static/css/main.aff4532b.css.map",
+    "main.9535c275.js.map": "/static/js/main.9535c275.js.map",
+    "787.c23b093c.chunk.js.map": "/static/js/787.c23b093c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff4532b.css",
+    "static/js/main.9535c275.js"
+  ]
+}
